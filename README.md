@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B47FF&background=FFFFFF00&random=false&width=435&lines=Can+Bedir;Front+End+Developer)](https://git.io/typing-svg)
 
 <!--
 **canbedir/canbedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
