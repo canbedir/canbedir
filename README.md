@@ -23,7 +23,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
 ![Material UI](https://img.shields.io/badge/Material%20UI-000?&logo=mui)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000?logo=shadcnui)
 <br />
 <br />
 
