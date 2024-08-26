@@ -14,5 +14,5 @@
    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/768116294053920809/1270363922364629064/nextjs-svgrepo-com_2.png?ex=66cc7a99&is=66cb2919&hm=5b4f12b1ae4ba116f5ef0615c073695dd666d083dff50ea614d46b93132d43e2" alt="nextjs" width="40" height="40"/> </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/45412ef6-84f2-4dfd-b1bf-d510154fb4fd2" alt="nextjs" width="40" height="40"/> </a>
 </p>
