@@ -10,7 +10,7 @@
 <br> <br>
 
 <details align="center">
-  <summary>More click 👈🏻</summary> <br>
+  <summary>Stats</summary> <br>
    
   ![canbedir stats](https://github-readme-streak-stats.herokuapp.com?user=canbedir&theme=great-gatsby&hide_border=true&border_radius=10)
 </details>
